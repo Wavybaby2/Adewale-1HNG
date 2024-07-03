@@ -21,9 +21,7 @@ body {
   justify-content: center;
   
 }
-.navbar ul:hover {
-  background-color: rgb(233, 186, 233);
-}
+
 .navbar a{
   color: white;
   text-decoration: none;
